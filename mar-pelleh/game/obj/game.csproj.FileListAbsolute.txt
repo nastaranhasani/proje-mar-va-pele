@@ -1,0 +1,9 @@
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\bin\Debug\game.exe
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\bin\Debug\game.pdb
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\obj\Debug\game.Form1.resources
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\obj\Debug\game.Properties.Resources.resources
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\obj\Debug\game.csproj.GenerateResource.Cache
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\obj\Debug\game.exe
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\obj\Debug\game.pdb
+C:\Documents and Settings\majid.HIWA.000\My Documents\Visual Studio 2005\Projects\game\game\obj\Debug\game.Form2.resources
